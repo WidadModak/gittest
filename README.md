@@ -1,2 +1,3 @@
 # gittest
-A test repo
+A test repo.
+Author: Widad Modak
